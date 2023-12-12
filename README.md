@@ -63,12 +63,12 @@ Limpar operação atual
 Limpar todas as operações
 Apagar o último dígito
 Design responsivo para diversos tamanhos de tela
-### Documentação
-Classe Calculator
+## Documentação
+###Classe Calculator
 A classe Calculator é responsável por lidar com as operações da calculadora e atualizar o visor. Ela inclui métodos para 
 adicionar dígitos, processar operações, atualizar o visor, alterar a operação e muito mais.
 
-Ouvintes de Eventos
+###Ouvintes de Eventos
 Ouvintes de eventos são adicionados aos botões da calculadora para capturar a entrada do usuário. Dígitos são adicionados à 
 operação atual, e operações acionam os métodos correspondentes na classe Calculator.
 
