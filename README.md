@@ -76,5 +76,10 @@ operação atual, e operações acionam os métodos correspondentes na classe Ca
 Contribuições são bem-vindas! Se encontrar um bug, tiver alguma crítica construtiva, ou tiver uma melhoria em mente, abra 
 uma issue ou crie um pull request com suas alterações.
 
-### Licença
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
+## Licença
+Este projeto está sob a Licença MIT.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/euluisdev/calculator-ts/blob/master/LICENSE)
+
+## Autor
+Luis Fernando de Albuquerque Figueiredo
+https://github.com/euluisdev/calculator-ts
